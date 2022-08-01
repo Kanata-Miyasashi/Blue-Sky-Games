@@ -1,0 +1,13 @@
+body{
+  background-image: url(https://cdn.pixabay.com/photo/2015/03/11/15/24/nebula-668783_960_720.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+#BlueSkyLogo{
+    border-radius: 1.5%;
+    border-width: 3px;
+    border-color: #0472C0;
+    margin-top: 35px;
+    margin-left: 45px;
+    max-width: 600;
+    border-style: solid;}
